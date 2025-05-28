@@ -44,7 +44,7 @@ python todo.py
 
 
 ## 🔧 Possible Future Enhancements
- • Edit task titles
- • Add task priority levels
- • Set due dates for tasks
- • Categorize tasks by type or project
+• Edit task titles
+• Add task priority levels
+• Set due dates for tasks
+• Categorize tasks by type or project
