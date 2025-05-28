@@ -39,11 +39,11 @@ python todo.py
 ]
 ```
 
-##👤 Developer
+## 👤 Developer
 • GitHub: mbinabhdr (https://github.com/mbinabhdr)
 
 
-##🔧 Possible Future Enhancements
+## 🔧 Possible Future Enhancements
  • Edit task titles
  • Add task priority levels
  • Set due dates for tasks
